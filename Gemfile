@@ -13,7 +13,7 @@ end
 
 group :staging, :production do
   source "https://gems.contribsys.com/" do
-    gem "sidekiq-pro", "~> 7.2"
+# gem "sidekiq-pro", "~> 7.2"
   end
 end
 
